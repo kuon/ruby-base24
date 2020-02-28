@@ -10,9 +10,9 @@ Gem::Specification.new do |spec|
   spec.email         = ["kuon@goyman.com"]
 
   spec.summary       = %q{A Base24 encoder/decoder.}
-  spec.description   = %q{A Base24 encoder/decoder.}
+  spec.description   = %q{A Base24 encoder/decoder for ruby.}
   spec.homepage      = "https://github.com/kuon/ruby-base24"
-  spec.license       = "Apache 2.0 & MIT"
+  spec.licenses       = ["Apache-2.0", "MIT"]
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
