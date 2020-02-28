@@ -7,7 +7,9 @@
 
 ## Build
 
+- `build`      build the gem from gemspec
 - `publish`    publish package to rubygems
+- `clean`      delete the generated gem
 
 ## Test
 
