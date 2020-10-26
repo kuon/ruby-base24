@@ -9,28 +9,6 @@ https://github.com/kuon/WhyILeftGithub/blob/main/README.md
 
 ----
 
-
-# THIS REPOSITORY HAS MOVED
-
-New URL: https://git.goyman.com/kuon/ruby-base24
-
-Why I moved everything out of GitHub:
-
-https://github.com/kuon/WhyILeftGithub/blob/main/README.md
-
-----
-
-
-# THIS REPOSITORY HAS MOVED
-
-New URL: https://git.goyman.com/kuon/ruby-base24
-
-Why I moved everything out of GitHub:
-
-https://github.com/kuon/WhyILeftGithub/blob/main/README.md
-
-----
-
 ![Build CI](https://img.shields.io/github/workflow/status/kuon/ruby-base24/Ruby)
 ![License](https://img.shields.io/badge/license-Apache%202.0/MIT-0b398e)
 ![Version](https://img.shields.io/gem/v/base24)
